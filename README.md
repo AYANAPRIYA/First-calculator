@@ -1,4 +1,4 @@
-# calculator
-## Building a calculator app using gui interface
+# GUI Calculator
+### Building a calculator app using gui interface using tkinder
 	
 
